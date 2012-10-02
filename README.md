@@ -1,9 +1,9 @@
-SmartXML - Manage XML documents in php easy and professional
-============================================================
+SmartXML - Library for managing and manipulating XML documents
+==============================================================
 
 
 
-## Usage example
+## example
 
 	$srcXml = new SmartXML(file_get_contents("test.xml"),"ISO-8859-2");
 	$dstXml = new SmartXML('',"ISO-8859-2");
